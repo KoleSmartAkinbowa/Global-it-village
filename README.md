@@ -1,2 +1,2 @@
-# Global-it-village
-IT without borders
+# Global IT Village
+Simple project structure.

@@ -1,0 +1,1 @@
+console.log('Global IT Village Loaded');
